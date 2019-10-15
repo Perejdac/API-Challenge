@@ -1,2 +1,2 @@
 # python-api-challenge
-API
+python-api-challenge
